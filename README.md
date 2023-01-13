@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Acidseaforce
-- 👀 I’m interested in History
+- 👀 I’m interested in Digital History
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on using Python in History analysis
 - 📫 How to reach me harun.wolfe17@gmail.com
